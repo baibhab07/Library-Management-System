@@ -1,0 +1,5 @@
+War and Peace,Leo Tolstoy,10,$10.0
+Song of Solomon,Toni Morrison,7,$7.5
+Harry Potter,JK Rowling,30,$7.0
+The Alchemist,Paulo Coelho,15,$20.5
+Animal Farm,George Orwell,5,$9.0
